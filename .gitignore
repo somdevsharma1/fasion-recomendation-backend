@@ -1,3 +1,7 @@
 venv/
 __pycache__/
 *.pyc
+*.pkl
+fashion-product-images-small/
+*.h5
+*.model
