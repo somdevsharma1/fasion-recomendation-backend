@@ -3,9 +3,20 @@
 # Install all these with: pip install -r requirements.txt
 # ============================================================
 
+# flask==3.0.0
+# flask-cors==4.0.0
+# tensorflow==2.13.0
+# scikit-learn==1.3.2
+# numpy==1.26.2
+# Pillow==10.1.0
+# tqdm==4.66.1
+# opendatasets==0.1.22
+
+
+
+
 flask==3.0.0
 flask-cors==4.0.0
-tensorflow==2.13.0
 scikit-learn==1.3.2
 numpy==1.26.2
 Pillow==10.1.0
